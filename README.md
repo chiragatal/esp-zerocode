@@ -1,6 +1,8 @@
 # ESP ZeroCode
 
-## Light
+[Try Now with ESP Launchpad](https://bit.ly/esp-zerocode)
+
+## Light Setup
 
 * qrcode:
 
@@ -10,7 +12,7 @@
 
 * manual_code: See [Light Onboarding Codes](releases/light/onboarding_codes.csv)
 
-## Socket
+## Socket Setup
 
 * qrcode:
 
