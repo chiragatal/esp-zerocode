@@ -1,0 +1,13 @@
+esp_toml_version = 1.0
+
+firmware_images_url = "https://github.com/chiragatal/esp-zerocode/blob/main/releases"
+
+supported_apps = ["Matter-ZeroCode-Light", "Matter-ZeroCode-Socket"]
+
+[Matter-ZeroCode-Light]
+chipsets = ["ESP32-C3"]
+image.esp32-c3 = "zero-code-matter-light-esp32c3-merged.bin"
+
+[Matter-ZeroCode-Socket]
+chipsets = ["ESP32-C3"]
+image.esp32-c3 = "zero-code-matter-socket-esp32c3-merged.bin"
