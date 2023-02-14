@@ -6,8 +6,8 @@ supported_apps = ["Matter-ZeroCode-Light", "Matter-ZeroCode-Socket"]
 
 [Matter-ZeroCode-Light]
 chipsets = ["ESP32-C3"]
-image.esp32-c3 = "zero-code-matter-light-esp32c3-merged.bin"
+image.esp32-c3 = "light/zero-code-matter-light-esp32c3-merged.bin"
 
 [Matter-ZeroCode-Socket]
 chipsets = ["ESP32-C3"]
-image.esp32-c3 = "zero-code-matter-socket-esp32c3-merged.bin"
+image.esp32-c3 = "socket/zero-code-matter-socket-esp32c3-merged.bin"
