@@ -1,6 +1,6 @@
 esp_toml_version = 1.0
 
-firmware_images_url = "https://raw.githubusercontent.com/chiragatal/esp-zerocode/blob/main/releases/"
+firmware_images_url = "https://github.com/chiragatal/esp-zerocode/raw/main/releases/"
 
 supported_apps = ["Matter-ZeroCode-Light", "Matter-ZeroCode-Socket"]
 
